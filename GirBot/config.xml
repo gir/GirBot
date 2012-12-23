@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <servers>
+    <server>
+      <address>irc.rizon.net</address>
+      <port>6667</port>
+      <nickname>girbot2</nickname>
+      <username>girbot</username>
+      <realname>girbot</realname>
+      <channels>
+        <channel>#gir</channel>
+      </channels>
+    </server>
+  </servers>
+</config>

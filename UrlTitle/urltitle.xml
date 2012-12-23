@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin>
+  <author>gir</author>
+  <email>kaniel.yano@gmail.com</email>
+  <title>Url Title</title>
+  <version>1.0</version>
+  <description>Gets the title of a url if it has one.</description>
+  <servers>
+    <server>irc.rizon.net</server>
+  </servers>
+  <channels>
+    <channel>#gir</channel>
+  </channels>
+</plugin>
